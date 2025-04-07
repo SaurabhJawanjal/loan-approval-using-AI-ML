@@ -20,7 +20,6 @@ The dataset contains historical loan application data with features such as:
 - **Loan Details:** Loan amount, term, interest rate, etc.
 - **Approval Status:** Binary target variable (Approved/Rejected).
 
-*(Ensure to add specific details about the dataset, like the source or any relevant notes.)*
 
 ## ⚡ **Technologies Used**
 
