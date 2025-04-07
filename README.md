@@ -33,8 +33,8 @@ The dataset contains historical loan application data with features such as:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/SaurabhJawanjal/Loan-Approval-Prediction.git
-   cd Loan-Approval-Prediction
+   git clone https://github.com/SaurabhJawanjal/loan-approval-using-AI-ML.git
+   cd loan-approval-using-AI-ML
    ```
 
 2. Install dependencies:
@@ -44,7 +44,7 @@ The dataset contains historical loan application data with features such as:
 
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook notebooks/loan_approval_analysis.ipynb
+   jupyter notebook notebooks/loan-approval-using-AI-ML.ipynb
    ```
 
 ## 🤝 **Contributing**
