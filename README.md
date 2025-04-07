@@ -1,5 +1,3 @@
-# loan-approval-using-AI-ML
-
 # **Loan Approval Prediction Using AI/ML**
 
 ## 📊 **Project Overview**
@@ -31,25 +29,11 @@ The dataset contains historical loan application data with features such as:
 - **Machine Learning Models:** Logistic Regression, Decision Trees, Random Forest, Gradient Boosting
 - **Tools:** Jupyter Notebook, GitHub
 
-## 📂 **Repository Structure**
-
-```
-Loan-Approval-Prediction/
-├── dataset/
-│   └── loan_data.csv
-├── notebooks/
-│   └── loan_approval_analysis.ipynb
-├── src/
-│   └── loan_approval_model.py
-├── README.md
-└── requirements.txt
-```
-
 ## 📈 **How to Run the Project**
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Loan-Approval-Prediction.git
+   git clone https://github.com/SaurabhJawanjal/Loan-Approval-Prediction.git
    cd Loan-Approval-Prediction
    ```
 
@@ -72,5 +56,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 This project is licensed under the MIT License.
 
 ---
-
-Let me know if you'd like to adjust any part of it!
