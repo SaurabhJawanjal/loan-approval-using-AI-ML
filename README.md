@@ -44,7 +44,7 @@ The dataset contains historical loan application data with features such as:
 
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook notebooks/loan-approval-using-AI-ML.ipynb
+   jupyter notebook notebooks/Capstone_Project_Loan_Approval_Using_Machine_Learning_Model.ipynb
    ```
 
 ## 🤝 **Contributing**
